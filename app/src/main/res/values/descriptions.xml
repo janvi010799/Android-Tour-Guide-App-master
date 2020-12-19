@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Attractions' descriptions -->
+    <string name="attraction_desc_1">The Gateway of India is an arch-monument built in the early twentieth century in the city of Mumbai, in the Indian state of Maharashtra. It was erected to commemorate the landing in December 1911 at Apollo Bunder, Mumbai of King-Emperor George V and Queen-Empress Mary, the first British monarch to visit India.</string>
+    <string name="attraction_desc_2">The Ajanta Caves are approximately 30 rock-cut Buddhist cave monuments which date from the 2nd century BCE to about 480 CE in Aurangabad district of Maharashtra state of India.</string>
+    <string name="attraction_desc_3">Chhatrapati Shivaji Maharaj Vastu Sangrahalaya is the main museum in Mumbai, Maharashtra. It was founded in the early years of the 20th century by prominent citizens of Mumbai, with the help of the government, to commemorate the visit of George V, who was Prince of Wales at the time. </string>
+    <string name="attraction_desc_4">Sanjay Gandhi National Park is a 87 km² protected area in Mumbai, Maharashtra State in India. It was established in 1996 with headquarters at Borivali. It is notable as one of the major national parks existing within a metropolis limit and is one of the most visited parks in the world. </string>
+
+    <!-- Restaurants' descriptions -->
+    <string name="restaurant_desc_1">Delicious, Indian traditional dishes.</string>
+    <string name="restaurant_desc_2">For lovers of Italian cuisine.</string>
+    <string name="restaurant_desc_3">Indian, Asian.</string>
+    <string name="restaurant_desc_4">A varied cuisine based on seasonal products.</string>
+
+    <!-- Hotels' descriptions -->
+    <string name="hotel_desc_1">ITC Maratha captures the essence of Maharashtra heritage and culture through its various offerings</string>
+    <string name="hotel_desc_2">Perfectly situated in Andheri East, Courtyard Mumbai International Airport offers 4-star comfort and an ideal location.</string>
+    <string name="hotel_desc_3">The Taj Mahal Palace opened in Mumbai, then Bombay, in 1903, giving birth to the country first harbour landmark.</string>
+
+    <!-- Rentals' descriptions -->
+    <string name="rental_desc_1">Good location overall for sightseeing, recreation, dining and getting around</string>
+    <string name="rental_desc_2">Serene resort and ashram focused on meditation, offering simple rooms, open-air dining and a spa.</string>
+    <string name="rental_desc_3">Excellent location overall for sightseeing, recreation, dining and getting around.</string>
+
+</resources>

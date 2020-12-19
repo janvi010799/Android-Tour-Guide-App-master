@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Status bar color -->
+    <color name="status_bar_color">#0b56a0</color>
+
+    <!-- App bar color -->
+    <color name="app_bar_color">#1976D2</color>
+
+    <!-- Background color for app -->
+    <color name="app_background">#f9fbff</color>
+
+    <!-- Background color for category tab -->
+    <color name="category_tab_background">#2196F3</color>
+
+    <!-- Text color - light -->
+    <color name="text_light">#f9fbff</color>
+
+</resources>

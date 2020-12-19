@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Base app theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimaryDark">@color/status_bar_color</item>
+        <item name="colorPrimary">@color/app_bar_color</item>
+    </style>
+
+    <!-- Style for a category tab -->
+    <style name="CategoryTab" parent="Widget.Design.TabLayout">
+        <item name="tabIndicatorColor">@android:color/white</item>
+        <item name="tabSelectedTextColor">#ffd800</item>
+        <item name="tabTextAppearance">@style/CategoryTabTextAppearance</item>
+        <item name="android:background">@color/category_tab_background</item>
+        <item name="tabMode">scrollable</item>
+    </style>
+
+    <!-- Text appearance style for a category tab -->
+    <style name="CategoryTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="textAllCaps">false</item>
+        <item name="android:textColor">#f4f6f9</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <!-- Divider -->
+    <style name="Divider">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">?android:attr/listDivider</item>
+        <item name="android:layout_below">@+id/website_text_view</item>
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:layout_marginRight">16dp</item>
+        <item name="android:layout_marginLeft">16dp</item>
+    </style>
+
+    <!-- Text appearance style for the details -->
+    <style name="Details">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingRight">@dimen/text_padding</item>
+        <item name="android:paddingLeft">@dimen/text_padding</item>
+        <item name="android:paddingBottom">@dimen/text_padding</item>
+        <item name="android:textSize">@dimen/standard_text_size</item>
+        <item name="android:drawablePadding">@dimen/text_padding</item>
+    </style>
+
+    <!-- Text appearance style for a title -->
+    <style name="Title">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:padding">@dimen/text_padding</item>
+        <item name="android:alpha">0.9</item>
+        <item name="android:textColor">@color/text_light</item>
+        <item name="android:gravity">center</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textSize">@dimen/title_text_size</item>
+    </style>
+
+    <!-- Text appearance style for a description -->
+    <style name="Description">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/text_padding</item>
+        <item name="android:textSize">@dimen/standard_text_size</item>
+    </style>
+
+    <!-- Text appearance style for a background image -->
+    <style name="Background_Image">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+</resources>

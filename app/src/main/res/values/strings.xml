@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Title for the app [CHAR LIMIT=30] -->
+    <string name="app_name">Maharashtra- Guide Tour</string>
+
+    <!-- Category name for the attractions [CHAR LIMIT=12] -->
+    <string name="attractions">Attractions</string>
+
+    <!-- Category name for the hotels [CHAR LIMIT=12] -->
+    <string name="hotels">Hotels &amp; Spas</string>
+
+    <!-- Category name for the restaurants [CHAR LIMIT=12] -->
+    <string name="restaurants">Restaurants</string>
+
+    <!-- Category name for the rentals [CHAR LIMIT=12] -->
+    <string name="rentals">Rentals</string>
+
+</resources>

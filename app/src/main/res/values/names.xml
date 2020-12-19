@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Attractions' names [CHAR LIMIT=40] -->
+    <string name="attraction_name_1">Gateway Of India</string>
+    <string name="attraction_name_2">Ajanta Caves</string>
+    <string name="attraction_name_3">Chhatrapati Shivaji Maharaj Vastu</string>
+    <string name="attraction_name_4">Sanjay Gandhi National Park</string>
+
+    <!-- Restaurants' names [CHAR LIMIT=40] -->
+    <string name="restaurant_name_1">Tanatan</string>
+    <string name="restaurant_name_2">1441 Pizzeria</string>
+    <string name="restaurant_name_3">The Peshwa Pavilion</string>
+    <string name="restaurant_name_4">JIMIS</string>
+
+    <!-- Hotels' names [CHAR LIMIT=40] -->
+    <string name="hotel_name_1">ITC Maratha</string>
+    <string name="hotel_name_2">Courtyard by Marriott</string>
+    <string name="hotel_name_3">The Taj Mahal Palace</string>
+
+    <!-- Rentals' names [CHAR LIMIT=40] -->
+    <string name="rental_name_1">Hotel Tiger Hill Resort</string>
+    <string name="rental_name_2">OSHO</string>
+    <string name="rental_name_3">Sunder Lodge</string>
+
+</resources>

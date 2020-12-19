@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Attractions' addresses [CHAR LIMIT=40] -->
+    <string name="attraction_address_1">Apollo Bandar, Colaba, Mumbai, Maharashtra 400001</string>
+    <string name="attraction_address_2">Maharashtra 431117</string>
+    <string name="attraction_address_3">Fort, Mumbai, Maharashtra 400023</string>
+    <string name="attraction_address_4">Borivali East, Mumbai, Maharashtra 400066</string>
+
+    <!-- Restaurants' addresses [CHAR LIMIT=40] -->
+    <string name="restaurant_address_1">Dadar Shivaji Park, Mumbai 400028</string>
+    <string name="restaurant_address_2">Raj Infinia, Malad West, Mumbai 400064</string>
+    <string name="restaurant_address_3">Sahar Road ,Andheri East, Mumbai 400069</string>
+    <string name="restaurant_address_4">Evershine Nagar, Malad West, Mumbai 400064</string>
+
+    <!-- Hotels' addresses [CHAR LIMIT=40] -->
+    <string name="hotel_address_1">Sahar Airport Rd, Andheri East,400099</string>
+    <string name="hotel_address_2">Cts 215 , Andheri East 400059</string>
+    <string name="hotel_address_3">Apollo Bandar, Colaba, Mumbai, Maharashtra 400001</string>
+
+    <!-- Rentals' addresses CHAR LIMIT=40] -->
+    <string name="rental_address_1">Kodoli, Kolhapur, SH-204,416122</string>
+    <string name="rental_address_2">Vasani Nagar, Koregaon Park,411001</string>
+    <string name="rental_address_3">21, Varad Ganesh Mandir Rd,431001</string>
+
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Layout for a single locations' list item -->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/location_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/app_background"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/image_name"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/image_name_height">
+
+        <ImageView
+            android:id="@+id/image"
+            style="@style/Background_Image"
+            tools:src="@drawable/attraction_image_1" />
+
+        <TextView
+            android:id="@+id/name_text_view"
+            style="@style/Title"
+            tools:text="@string/attraction_name_1" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/desc_text_view"
+        style="@style/Description"
+        android:layout_below="@id/image_name"
+        tools:text="@string/attraction_desc_1" />
+
+    <TextView
+        android:id="@+id/address_text_view"
+        style="@style/Details"
+        android:layout_below="@+id/desc_text_view"
+        android:drawableLeft="@drawable/baseline_location_on_black_18"
+        tools:text="@string/attraction_address_1" />
+
+    <TextView
+        android:id="@+id/website_text_view"
+        style="@style/Details"
+        android:layout_below="@+id/address_text_view"
+        android:autoLink="web"
+        android:drawableLeft="@drawable/baseline_link_black_18"
+        android:textColorLink="@color/category_tab_background"
+        tools:text="@string/attraction_website_1" />
+
+    <View style="@style/Divider" />
+
+</RelativeLayout>

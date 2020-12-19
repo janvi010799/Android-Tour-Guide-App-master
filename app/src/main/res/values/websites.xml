@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Attractions' websites [CHAR LIMIT=40] -->
+    <string name="attraction_website_1">https://mumbaicity.gov.in/tourist-place/gateway-of-india/</string>
+    <string name="attraction_website_2">https://whc.unesco.org/en/list/242/</string>
+    <string name="attraction_website_3">http://www.csmvs.in/</string>
+    <string name="attraction_website_4">https://sgnp.maharashtra.gov.in/Site/Home/Index.aspx</string>
+
+    <!-- Restaurants' websites [CHAR LIMIT=40] -->
+    <string name="restaurant_website_1">https://www.facebook.com/tanatanshivajipark/</string>
+    <string name="restaurant_website_2">https://www.facebook.com/1441pizzeria/</string>
+    <string name="restaurant_website_3">https://www.itchotels.in/hotels/itcmaratha/the-peshwa-pavilion-restaurant.aspx</string>
+    <string name="restaurant_website_4">https://www.facebook.com/jimisburger/</string>
+
+    <!-- Hotels' websites [CHAR LIMIT=40] -->
+    <string name="hotel_website_1">https://www.tripadvisor.in/Hotel_Review-g304554-d301778-Reviews-ITC_Maratha_Mumbai_a_Luxury_Collection_Hotel-Mumbai_Maharashtra.html</string>
+    <string name="hotel_website_2">https://www.tripadvisor.in/Hotel_Review-g304554-d1676301-Reviews-Courtyard_by_Marriott_Mumbai_International_Airport-Mumbai_Maharashtra.html</string>
+    <string name="hotel_website_3">https://www.tripadvisor.in/Hotel_Review-g304554-d302179-Reviews-The_Taj_Mahal_Palace-Mumbai_Maharashtra.html</string>
+
+    <!-- Rentals' websites CHAR LIMIT=40] -->
+    <string name="rental_website_1">tigerhillsresort.com</string>
+    <string name="rental_website_2">https://www.osho.com/osho-meditation-resort</string>
+    <string name="rental_website_3">https://www.goibibo.com/hotels/sunder-lodge-hotel-in-aurangabad-maharashtra-7411747479469271548/</string>
+
+</resources>
