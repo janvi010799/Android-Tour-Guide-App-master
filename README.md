@@ -5,12 +5,6 @@ Travelling is an experience that one can cherish throughout their lifetime. When
 
 SOFTWARE USED – ANDROID STUDIO (JAVA)
 
-SOME UI SNAPSHOTS – 
-
-			 
-
-	 		 
-
 POINTS TO BE NOTED -
 ⦁	The project aims at giving the user an opportunity to view the different tourist spots, attractions, hotels, etc. and plan their trip accordingly.
 ⦁	This service just requires a smartphone and Internet connection.
